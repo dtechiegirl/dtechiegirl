@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dtechiegirl
+- 👋 Hello, I am dtechiegirl
 - 👀 I’m interested in proffering solutions to problems using technology.
 - 🌱 I’m build with PHP and Laravel, Python and Django
 - 💞️ I’m looking to collaborate on intersting projects using PHP/Laravel, Python/Django.
