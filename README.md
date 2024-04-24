@@ -1,7 +1,11 @@
-- 👋 Hello, I am dtechiegirl
-- 👀 I’m interested in proffering solutions to problems using technology.
-- 🌱 I’m build with PHP and Laravel, Python and Django
-- 💞️ I’m looking to collaborate on intersting projects using PHP/Laravel, Python/Django.
+
+I am a Mobile App Developer with 1 year of experience building with Jetpack Compose for Android, Flutter and Dart for cross platform application. I have been able to work on projects that demonstrate my skill ranging from a device tracking system to a geofencing application to an Ai powered inventory management system. 
+
+I am keen on bringing my skillset and willingness to learn plus my teamwork spirit to whatever team I join so as to push the company's vision forward. 
+
+I am currently seeking entry level opportunities as a mobile app dev. 
+
+Reach me via email temitomoloju@gmail.com
 - 📫 Connect with me on twitter @dtechiegirl
 -  ❤️💡
 
