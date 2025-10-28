@@ -3,8 +3,6 @@ I am a full stack Mobile App Developer with experience building with Jetpack Com
 
 I am keen on bringing my skillset and willingness to learn plus my teamwork spirit to whatever team I join so as to push the company's vision forward. 
 
-I am currently seeking entry level opportunities as a mobile app dev. 
-
 Reach me via email temitomoloju@gmail.com
 - 📫 Connect with me on twitter @dtechiegirl
 -  ❤️💡
